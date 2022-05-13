@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T18:01:19.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="TDraUUfdpmck8qfOg5Pt" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T18:18:36.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1igYRo-Eomuf1ZokBQfq" version="17.4.1" type="github">
   <diagram id="35qMXVpuOPKzVspBpzHX" name="Page-1">
     <mxGraphModel dx="1689" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="usRTS4qyaYX0RFucdqIa-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="usRTS4qyaYX0RFucdqIa-11">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="usRTS4qyaYX0RFucdqIa-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="usRTS4qyaYX0RFucdqIa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-520" y="140" as="sourcePoint" />
+            <mxPoint x="-360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usRTS4qyaYX0RFucdqIa-13" value="String de Conexão" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#000000;" connectable="0" vertex="1" parent="usRTS4qyaYX0RFucdqIa-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
